@@ -1,6 +1,6 @@
 {
   "name": "nativescript-add-contact-activity",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple NativeScript plugin that opens add contact activity for selected number.",
   "main": "index.js",
   "nativescript": {},

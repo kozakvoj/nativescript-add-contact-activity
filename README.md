@@ -10,5 +10,6 @@ Currently, it only works on Android.
 ## Usage
 
 ```js
-
+var addContact = require("nativescript-add-contact-activity");
+addContact.createContact(123456789);
 ```
