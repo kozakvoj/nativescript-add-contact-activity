@@ -1,0 +1,23 @@
+{
+  "name": "nativescript-add-contact-activity",
+  "version": "0.0.1",
+  "description": "Simple NativeScript plugin that opens add contact activity for selected number.",
+  "main": "index.js",
+  "nativescript": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozakvoj/nativescript-add-contact-activity.git"
+  },
+  "author": {
+    "name": "Vojtech Kozak"
+  },
+  "bugs": {
+    "url": "https://github.com/kozakvoj/nativescript-add-contact-activity/issues"
+  },
+  "homepage": "https://github.com/kozakvoj/nativescript-add-contact-activity#readme",
+  "dependencies": {},
+  "readmeFilename": "README.md"
+}
